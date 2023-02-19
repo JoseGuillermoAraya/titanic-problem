@@ -13,7 +13,7 @@ seaborn = "^0.12.2"
 numpy = "^1.24.2"
 pandas = "^1.5.3"
 jupyter = "^1.0.0"
-ml-cli = {path = "cli_package/ml-cli-0.1.0.tar.gz"}
+ml-cli = {path = "cli_package/ml-cli-0.2.0.tar.gz"}
 
 
 [build-system]

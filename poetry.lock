@@ -1956,7 +1956,7 @@ mistune = [
     {file = "mistune-2.0.5.tar.gz", hash = "sha256:0246113cb2492db875c6be56974a7c893333bf26cd92891c85f63151cee09d34"},
 ]
 ml-cli = [
-    {file = "ml-cli-0.1.0.tar.gz", hash = "sha256:11922bd2d3bc7ea08032ec2b166573dd294a3fef8f09fe0858e9d8bdb5fe9138"},
+    {file = "ml-cli-0.1.0.tar.gz", hash = "sha256:626a800918c56f595468ecfab8c71942c931c2c633a3363385021fe5018330b0"},
 ]
 nbclassic = [
     {file = "nbclassic-0.5.2-py3-none-any.whl", hash = "sha256:6403a996562dadefa7fee9c49e17b663b5fd508241de5df655b90011cf3342d9"},

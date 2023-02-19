@@ -682,7 +682,7 @@ python-versions = "*"
 
 [[package]]
 name = "ml-cli"
-version = "0.3.0"
+version = "0.4.0"
 description = "Simple CLI to train, evaluate and predict with a XGB model on the Titanic Problem"
 category = "main"
 optional = false
@@ -698,7 +698,7 @@ xgboost = ">=1.7.4,<2.0.0"
 
 [package.source]
 type = "file"
-url = "cli_package/ml-cli-0.3.0.tar.gz"
+url = "cli_package/ml-cli-0.4.0.tar.gz"
 
 [[package]]
 name = "nbclassic"
@@ -1454,7 +1454,7 @@ scikit-learn = ["scikit-learn"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "e77a89d78c9f8e5b452315c94aa67b8ca1df527d7bb6d91113a93d685412f8ed"
+content-hash = "d36c4337eeb076765c5e1e560b5c8e677371edebb01d78c3d0bacc194a3079bd"
 
 [metadata.files]
 anyio = [
@@ -1956,7 +1956,7 @@ mistune = [
     {file = "mistune-2.0.5.tar.gz", hash = "sha256:0246113cb2492db875c6be56974a7c893333bf26cd92891c85f63151cee09d34"},
 ]
 ml-cli = [
-    {file = "ml-cli-0.3.0.tar.gz", hash = "sha256:fd23047dba1af17119fad378039171eb475131faa4da708beceb0c3b97cfb206"},
+    {file = "ml-cli-0.4.0.tar.gz", hash = "sha256:d225ce3590fe400ea1786fdef2ff33150cf8db4ba1863d723275da6cbc5c22c9"},
 ]
 nbclassic = [
     {file = "nbclassic-0.5.2-py3-none-any.whl", hash = "sha256:6403a996562dadefa7fee9c49e17b663b5fd508241de5df655b90011cf3342d9"},
